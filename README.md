@@ -39,4 +39,4 @@ module.exports = withTm(
 
 ## License
 
-(MIT)[./LICENSE]
+[MIT](./LICENSE)
