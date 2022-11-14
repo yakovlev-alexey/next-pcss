@@ -18,6 +18,10 @@
     "LICENSE"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yakovlev-alexey/next-pcss"
+  },
   "peerDependencies": {
     "next": ">=9"
   },
