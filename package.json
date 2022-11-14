@@ -1,0 +1,7 @@
+{
+  "name": "next-pcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexey Yakovlev <alexeyyakovlev0359@gmail.com>",
+  "license": "MIT"
+}
