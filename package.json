@@ -1,10 +1,16 @@
 {
   "name": "@yakovlev-alexey/next-pcss",
   "version": "1.0.0",
+  "description": "Import global `.pcss` files in your Next.js project.",
   "main": "index.js",
   "types": "index.d.ts",
   "private": false,
   "author": "Alexey Yakovlev <alexeyyakovlev0359@gmail.com>",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "next": ">=9"
