@@ -22,8 +22,14 @@ const regexEqual = (x, y) => {
 /**
  * Copies Next CSS Webpack loaders to work with global .pcss files.
  * @example
+ * ```js
+ * const withTM = require('next-transpile-modules')(['some_package']);
+ * const withPcss = require("@yakovlev-alexey/next-pcss");
+ *
+ * module.exports = withTm(withPcss({ /* your config here *\/ }))
+ * ```
  * @param {import('next').NextConfig} nextConfig
- * @returns {import('next').NextConfig} nextConfig
+ * @returns {import('next').NextConfig}
  */
 const withPcss = (nextConfig) => {
   return Object.assign({}, nextConfig, {
