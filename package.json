@@ -1,8 +1,9 @@
 {
-  "name": "next-pcss",
+  "name": "@yakovlev-alexey/next-pcss",
   "version": "1.0.0",
   "main": "index.js",
   "types": "index.d.ts",
+  "private": false,
   "author": "Alexey Yakovlev <alexeyyakovlev0359@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
